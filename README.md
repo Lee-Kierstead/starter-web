@@ -1,7 +1,7 @@
-##  Starter Web Repo
+#  Starter Web Repo
 
-# Purpose
+## Purpose
 
-# About
+## About
 
-# Contribute
+## Contribute
